@@ -6,10 +6,6 @@ html{
 }
 
 
-h2, h3{
-    font-weight: ;
-}
-
 .item{
     display: inline-block;
     padding: 1rem 1rem;
@@ -17,7 +13,6 @@ h2, h3{
     word-wrap: normal;
     width: 125px;
     display: inline-block;
-    float: left;
   
 }
 
