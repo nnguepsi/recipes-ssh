@@ -5,9 +5,10 @@ html{
     font-family: 'Raleway', sans-serif;
 }
 
+
 .item{
     border: 10px;
-    padding: 1rem 1rem;
+    padding: 1rem 1rem 1rem 1rem;
     word-wrap: normal;
     width: 125px;
     display: block;
@@ -37,5 +38,6 @@ a:link{
     display: inline-grid;
     margin: 20px;
     text-align: center;
+    justify-content: center;
 
 }
